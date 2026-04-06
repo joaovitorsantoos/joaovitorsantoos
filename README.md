@@ -51,5 +51,4 @@ Focado em <strong>Análise de Dados</strong>, <strong>Django</strong> e <strong>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=joaovitorsantoos&label=Visualizações+do+perfil&color=0e75b6&style=flat" alt="Profile views" />
   <br><br>
-  <i>Made with ❤️ in Florianópolis 🌊</i>
 </div>
