@@ -58,7 +58,7 @@ class JoaoVitor:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorsantoos&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=joaovitorsantoos&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -66,7 +66,7 @@ class JoaoVitor:
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaovitorsantoos&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=joaovitorsantoos&theme=darkhub&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
