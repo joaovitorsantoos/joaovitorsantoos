@@ -15,7 +15,6 @@
 class JoaoVitor:
     formacao = "Técnico em Eletrônica"
     foco     = ["Dados", "Django", "AI Agents"]
-    cidade   = "Florianópolis, SC 🌊"
     # sempre aprendendo, sempre construindo
 ```
 
