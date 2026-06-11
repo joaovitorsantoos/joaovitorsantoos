@@ -36,7 +36,7 @@ class JoaoVitor:
 |---|---|
 | ✅ | Fundamentos Python — sintaxe, funções, estruturas |
 | ✅ | Primeiros projetos — `gerenciador-de-tarefas` · `django-cars` |
-| 🔄 | POO + Pandas + Matplotlib |
+| 🔄 | Desevolvimento de software usando Django |
 | 🔜 | APIs REST com Flask/Django |
 | 🚀 | Agentes de IA com LLMs |
 
