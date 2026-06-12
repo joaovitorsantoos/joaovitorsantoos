@@ -1,12 +1,17 @@
 <div align="center">
 
-# João Vitor dos Santos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:092E20&height=200&section=header&text=João%20Vitor%20dos%20Santos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20AI%20Integration&descSize=16&descAlignY=58&descColor=a8d8a8" />
 
-**`Backend Developer · Python · Django · AI Integration`**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitorsantoos)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaovitorsantoos)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joaovdsfloripa@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3670A0&center=true&vCenter=true&width=480&lines=Backend+Developer+%F0%9F%90%8D;Python+%7C+Django+%7C+REST+APIs;Building+AI-integrated+systems;From+circuits+to+code+%E2%86%92+always+learning)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitorsantoos)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaovitorsantoos)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovdsfloripa@gmail.com)
+[![Location](https://img.shields.io/badge/Florianópolis,_SC-00B4D8?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Florianopolis,SC)
 
 </div>
 
@@ -14,7 +19,6 @@
 
 ```python
 class JoaoVitor:
-    location   = "Florianópolis, SC — Brasil"
     background = "Técnico em Eletrônica (IFSC) → Backend Developer"
     focus      = ["Python", "Django", "APIs REST", "AI Integration"]
     learning   = ["C# / .NET", "LangChain", "LangGraph", "Celery"]
@@ -22,77 +26,61 @@ class JoaoVitor:
         "Sistemas de Informação — UNINTER (2026–2030)",
         "Desenvolvimento de Software Backend — SENAI/SC (2026–2027)",
     ]
-
-    def diferencial(self):
-        # Fui de circuitos e prototipagem 3D para arquitetura de sistemas.
-        # A lógica de diagnóstico de hardware virou lógica de software.
-        return "penso em sistemas de ponta a ponta"
 ```
 
 ---
 
 ## Stack
 
-**Backend**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-red?style=flat-square&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+**Backend & AI**
 
-**AI & Dados**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6236FF?style=flat-square&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgres,redis,celery&theme=dark)](https://skillicons.dev)
 
 **Aprendendo**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker&theme=dark)](https://skillicons.dev)
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## Projetos em destaque
-
-**[`gerenciador-de-tarefas`](https://github.com/joaovitorsantoos)**
-Gerenciador de tarefas em Python com foco em modularização de código e boas práticas.
-`Python` · `CLI` · `Módulos`
-
-**[`django-cars`](https://github.com/joaovitorsantoos)**
-CRUD de concessionária com Django — cadastro, listagem e gestão de veículos.
-`Python` · `Django` · `CRUD`
-
-**`sistema-documentos` *(em desenvolvimento)***
-Sistema de gestão de documentos para construção civil com sumarização por IA.
-`Django` · `LangChain` · `LangGraph` · `Celery`
-
----
-
-## Trajetória
-
-```
-[2022–2025]  Técnico em Eletrônica @ IFSC
-             + P&D: próteses e órteses com eletrônica e impressão 3D
-
-[2025]       Jovem Aprendiz de Logística @ Consórcio Fênix
-
-[Dez/2025→]  Técnico Auxiliar de Refrigeração (autônomo)
-
-[Mai/2026→]  Electronic Assembler @ Hexagon Agriculture Solutions
-
-[Abr/2026→]  Backend Dev (SENAI/SC) · Sistemas de Informação (UNINTER)
-             → foco em Python, Django e integração com IA
-```
-
----
+## GitHub Stats
 
 <div align="center">
-  <sub>Florianópolis, SC · sempre construindo · sempre aprendendo</sub>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorsantoos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3670A0&icon_color=3670A0&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsantoos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3670A0&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovitorsantoos&theme=tokyonight&hide_border=true&background=0D1117&stroke=3670A0&ring=3670A0&fire=3670A0&currStreakLabel=3670A0)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Projetos em Destaque
+
+<div align="center">
+
+| 📁 Projeto | 🔧 Stack | 📄 Descrição |
+|---|---|---|
+| [**gerenciador-de-tarefas**](https://github.com/joaovitorsantoos/gerenciador-de-tarefas) | `Python` | To-Do List no terminal com foco em modularização e boas práticas |
+| [**django-cars**](https://github.com/joaovitorsantoos/django-cars) | `Python` `Django` | CRUD de concessionária — cadastro, estoque e busca de veículos |
+| **sistema-sgei** *(em dev)* | `Django` `LangChain` `Celery` | Gestão de documentos para construção civil com sumarização por IA |
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:3670A0&height=120&section=footer"/>
+
 </div>
